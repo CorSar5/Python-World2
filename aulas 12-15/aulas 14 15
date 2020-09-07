@@ -1,0 +1,27 @@
+'''cont = 1
+while cont <= 10 :
+    print(cont, '->', end='')
+    cont += 1
+print('Acabou')'''
+
+#cont = 1
+#while True:
+    #print(cont, '->', end= '')
+    #cont += 1
+
+'''n = n1 = 0
+n = int(input('Digite um número: '))
+while n != 999:
+    n = int(input('Digite um número: '))
+    n1 += n
+print(f'A soma é {n1}')'''
+
+'''n = s = 0
+while True:
+    n = int(input('Digite um número [999 para parar]'))
+    if n == 999:
+        break
+    s += n
+print('A soma é igual {}'.format(s))'''
+
+# :^nome - para centralizar //:.2f- para duas casas decimais
